@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+# 왜안됨
+
 import sys
 
 string = sys.stdin.readline()

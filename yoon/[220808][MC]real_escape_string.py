@@ -2,7 +2,7 @@
 
 import sys
 
-string = sys.stdin.readline()
+string = sys.stdin.readline().strip()
 # string = list(sys.stdin.readline())
 
 # for i in range(len(string)):

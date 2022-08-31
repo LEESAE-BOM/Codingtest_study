@@ -19,3 +19,4 @@ for i in range(n):
             max_loses = loses
         last = 'LOSE'
     print(wins, loses, max_wins, max_loses)
+4

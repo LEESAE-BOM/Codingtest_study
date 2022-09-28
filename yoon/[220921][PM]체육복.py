@@ -1,4 +1,4 @@
-    def solution(n, lost, reserve):
+def solution(n, lost, reserve):
         count = 0
         lost, reserve = list(set(lost)-set(reserve)), list(set(reserve)-set(lost))
         for lost_v in lost:
